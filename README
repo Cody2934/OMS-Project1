@@ -1,0 +1,16 @@
+OMS Fuel Project
+
+CREATE TABLE fuel_reports
+(
+Card_Number_Masked numeric,
+Card_Description varchar,
+VehCard_Number_Masked numeric,
+Site_Description varchar,
+State_Code varchar,
+CPTrn_DateTime date,
+Prod_Description varchar,
+Units numeric,
+Unit_Price numeric,
+Amt numeric
+);
+
